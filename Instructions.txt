@@ -1,0 +1,39 @@
+Intended Learning Outcome:
+
+Students should be able to 
+
+Understand the basic functionality of Q-learning, DQN, and DDQN Methods.
+Implement the concepts of Q-learning, DQN, and DDQN. 
+Prerequisite:
+
+Students should go through the lectures CS7 - CS12; 
+Webinar demonstrations 
+Please note that this assignment will involve some amount of self-learning ( on the part of modelling solutions appropriately + programming skills )  
+
+Submission Deadline: 07th August, 2026 
+
+Instructions: 
+
+Read the assignment proposal carefully.
+Solve all the assignment problems. Submit only one solution file. (Team # - Q_learning_DQN_DDQN) 
+It is mandatory to submit the assignment in PDF format, consisting of all the codes and outputs with each and every iteration. Any other format will not be accepted.
+Only one submission per group is required.
+Add comments and descriptions to every function you are creating or operation you are performing. If not found, then 1 mark will be deducted. There are many assignments that need to be evaluated. Providing the comments and descriptions will help the evaluator to understand your code quickly and clearly. 
+Group Contribution Declaration: At the beginning of the report, list the names of all group members and specify the percentage contribution of each member.
+No last moment submissions /email submissions will be accepted. Therefore make sure you will submit the first version of your assignment 2 days before the deadline.
+Assignment must be executed in virtual lab and screenshots with timestamp in virtual lab must be attached in the final submission
+Plagiarized submissions will not be evaluated at both the parties.
+Key factors which will be considered for scoring includes (but not limited to) : Creativity, Originality, Uniqueness, Code Modularity, Representation, Reproducibility, Similarity to AI tool solutions.
+How to reach out for any clarifications:
+
+This assignment is administered by
+
+(1) Subash - subasharun@wilp.bits-pilani.ac.in
+
+(2) Divya K - divyak@wilp.bits-pilani.ac.in
+
+(3) Dincy R Arikkat - dincyrarikkat@wilp.bits-pilani.ac.in
+
+Any request for clarification must be addressed through email (official email only) to all the three instructors listed.
+
+Messaging in TEAMS is discouraged. This is to ensure we maintain track of all the transactions. If we find any clarifications to be shared across all the students, we will share this using discussion forums.
